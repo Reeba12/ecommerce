@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topnavbar{
+    font-family: 'Righteous', cursive;
+    color: 14213D !important;
+    font-weight: 900;
+    font-size: 30px !important;
+}
+.title{
+    font-family: 'Righteous', cursive;
+    color: 14213D !important;
+    font-weight: 900;
+    font-size: 30px !important;
+}
+.login{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.LoginPageHeading{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+}
+.SignBtn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+margin: 20px 0px 0px 289px; 
+}
+.Slider{
+    display: flex;
+    align-items: center;
+    align-items: center;
+}
+.img{
+    height: 20em;
+    width: 30em;
+}
+.card-body{
+    font-family: 'Roboto Slab', serif;
+}
+.card-img{
+    height: 150px;
+}
+.productdetails{
+    font-family: 'Righteous', cursive;
+}
+.productdesc{
+   font-weight: lighter;
+   font-size: 15px;
+    color: grey;
+}
